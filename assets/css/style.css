@@ -15030,7 +15030,7 @@ textarea.aux-light.aux-bottom-line {
   }
 }
 @font-face {
-  font-family: "auxin-front";
+  font-family: "Noto Serif", sans-serif !important;
   src: url(//www.byte.law/wp-content/themes/phlox-pro/css/fonts/fontastic/auxicon/auxin-front.eot);
   src: url(//www.byte.law/wp-content/themes/phlox-pro/css/fonts/fontastic/auxicon/auxin-front.eot?#iefix)
       format("embedded-opentype"),
@@ -15044,7 +15044,7 @@ textarea.aux-light.aux-bottom-line {
   font-style: normal;
 }
 [data-icon]:before {
-  /* font-family: "auxin-front" !important; */
+  /* font-family: "Noto Serif", sans-serif !important !important; */
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: 400 !important;
@@ -15057,7 +15057,7 @@ textarea.aux-light.aux-bottom-line {
 }
 [class^="auxicon-"]:before,
 [class*=" auxicon-"]:before {
-  /* font-family: "auxin-front" !important; */
+  /* font-family: "Noto Serif", sans-serif !important !important; */
   font-style: normal !important;
   font-weight: 400 !important;
   font-variant: normal !important;
@@ -19169,7 +19169,7 @@ table tr.even td {
 .aux-top-header #lang_sel {
   display: block;
   height: auto;
-  font-family: inherit;
+  font-family: i "Noto Serif", sans-serif !important;
 }
 .aux-top-header #lang_sel > ul,
 .aux-top-header #lang_sel .icl_lang_sel_native,
@@ -19689,7 +19689,7 @@ table tr.even td {
 .aux-cart-wrapper.aux-elegant-cart
   .aux-card-final-amount
   .woocommerce-Price-amount {
-  font-family: "Raleway";
+  font-family: "Noto Serif", sans-serif !important;
   font-size: 16px;
   color: #444;
   font-weight: 600;
@@ -19758,7 +19758,7 @@ table tr.even td {
 }
 .aux-cart-wrapper .aux-inline-card-checkout .aux-card-final-amount {
   font-size: 14px;
-  font-family: "Raleway";
+  font-family: "Noto Serif", sans-serif !important;
   font-weight: 400;
   color: #444;
 }
@@ -23044,7 +23044,7 @@ table tr.even td {
 }
 .woocommerce-message:before,
 .woocommerce-error:before {
-  font-family: "auxin-front" !important;
+  font-family: "Noto Serif", sans-serif !important;
   content: "\e0b5" !important;
   position: absolute !important;
   left: 23px !important;
@@ -23062,7 +23062,7 @@ table tr.even td {
   }
 }
 .woocommerce-message:before {
-  font-family: "auxin-front-2" !important;
+  font-family: "Noto Serif", sans-serif !important;
   content: "\2b" !important;
   font-size: 24px !important;
 }
@@ -27264,7 +27264,7 @@ dialog.fixed {
 }
 .wpulike.aux-wpulike .wp_ulike_general_class .wp_ulike_btn:before {
   display: block;
-  font-family: "auxin-front" !important;
+  font-family: "Noto Serif", sans-serif !important;
   font-style: normal !important;
   font-weight: 400 !important;
   font-variant: normal !important;
@@ -43786,7 +43786,7 @@ legend {
   vertical-align: middle;
   display: inline-block;
   font-size: 1.4em;
-  font-family: "auxin-front";
+  font-family: "Noto Serif", sans-serif !important;
   color: inherit;
   text-align: center;
   speak: none;
@@ -46179,13 +46179,13 @@ blockquote {
   color: #dedede;
   line-height: 100%;
   font-size: 5.5em;
-  font-family: Georgia;
+  font-family: "Noto Serif", sans-serif !important;
 }
 .aux-quote-symbol:after {
   content: close-quote;
   color: #dedede;
   line-height: 100%;
-  font-family: Georgia;
+  font-family: "Noto Serif", sans-serif !important;
   visibility: hidden;
 }
 .aux-quote-letter > p:after,
@@ -46566,7 +46566,7 @@ blockquote {
   place-content: center;
   font-size: 25px;
   font-weight: 700;
-  font-family: sans-serif;
+  font-family: "Noto Serif", sans-serif !important;
   max-width: 100%;
 }
 .aux-circle-chart span {
@@ -46724,7 +46724,7 @@ blockquote {
   padding: 12px 17px 12px 13px;
   background-color: #3d3d3d;
   font-size: 14px;
-  font-family: inherit;
+  font-family: "Noto Serif", sans-serif !important;
 }
 .ult-just-icon-wrapper .bsf_tooltip.left .bsf_tooltip-arrow {
   right: 1px;
@@ -50430,7 +50430,7 @@ aside .wp-block-group__inner-container h2,
   position: absolute;
   top: 0;
   left: -5px;
-  font-family: "auxin-front";
+  font-family: "Noto Serif", sans-serif !important;
   font-size: 28px;
   line-height: normal;
 }
@@ -52864,7 +52864,7 @@ aside .aux-widget-contact-box .aux-map-wrapper + .aux-contact-details {
   top: 2px;
   left: 0;
   color: #bbb;
-  font-family: "auxin-front";
+  font-family: "Noto Serif", sans-serif !important;
   font-size: 1.6em;
   line-height: 1;
   speak: none;
@@ -54919,7 +54919,7 @@ aside.aux-dark .aux-slide-title h3 {
 .comment-body pre {
   border: 1px solid #eaeaea;
   color: #505050;
-  font-family: Consolas, Monaco, Lucida Console, monospace;
+  font-family: "Noto Serif", sans-serif !important;
   font-size: 12px;
   font-size: 0.857142857rem;
   line-height: 1.714285714;
@@ -55977,7 +55977,7 @@ aside.aux-dark .aux-slide-title h3 {
   line-height: 1;
 }
 .single-post .hentry .entry-meta .aux-single-post-share .aux-has-text:before {
-  font-family: inherit;
+  font-family: "Noto Serif", sans-serif !important;
   content: attr(data-text);
   font-weight: 500;
   text-decoration: underline;
@@ -56085,7 +56085,7 @@ aside.aux-dark .aux-slide-title h3 {
   left: 0;
   position: relative;
   color: #505050;
-  font-family: sans-serif;
+  font-family: "Noto Serif", sans-serif !important;
   font-weight: 700;
   font-style: normal;
 }
@@ -56315,7 +56315,7 @@ aside.aux-dark .aux-slide-title h3 {
 }
 .aux-archive .type-post.sticky .entry-title:before {
   content: "\e16b";
-  font-family: "auxin-front";
+  font-family: "Noto Serif", sans-serif !important;
   font-size: 0.74em;
   speak: none;
 }
@@ -56633,7 +56633,7 @@ aside.aux-dark .aux-slide-title h3 {
 .aux-search.aux-advanced-search .aux-primary .aux-search-from span,
 .aux-search.aux-advanced-search .aux-primary .aux-search-from a {
   font-size: 18px;
-  font-family: "Raleway";
+  font-family: "Noto Serif", Sans-serif;
   color: #3d3d3d;
   text-transform: capitalize;
 }
@@ -59149,12 +59149,12 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 }
 .elementor-field-group .elementor-field-textual::-moz-placeholder {
   color: inherit;
-  font-family: inherit;
+  font-family: "Noto Serif", sans-serif !important;
   opacity: 0.6;
 }
 .elementor-field-group .elementor-field-textual::placeholder {
   color: inherit;
-  font-family: inherit;
+  font-family: "Noto Serif", sans-serif !important;
   opacity: 0.6;
 }
 .elementor-field-group .elementor-select-wrapper {
@@ -59168,7 +59168,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
   appearance: none;
   color: inherit;
   font-size: inherit;
-  font-family: inherit;
+  font-family: "Noto Serif", sans-serif !important;
   font-weight: inherit;
   font-style: inherit;
   text-transform: inherit;
@@ -65341,7 +65341,7 @@ body.rtl
 }
 [class^="ep-icon-"],
 [class*=" ep-icon-"] {
-  font-family: "element-pack" !important;
+  font-family: "Noto Serif", sans-serif !important;
   speak: never;
   font-style: normal;
   font-weight: 400;
