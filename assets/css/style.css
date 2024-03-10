@@ -2788,7 +2788,7 @@ ul.bdt-nav-sub {
   box-sizing: border-box;
   min-height: 80px;
   font-size: 16px;
-  font-family: "Noto Sans", sans-serif !important;
+  font-family: "Noto Serif", Sans-serif !important;
   text-decoration: none;
 }
 .bdt-navbar-nav > li > a {
@@ -4744,9 +4744,7 @@ iframe[data-bdt-cover] {
 }
 .bdt-logo {
   font-size: 1.5rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Noto Serif", sans-serif !important;
   color: #333;
   text-decoration: none;
 }
@@ -7283,7 +7281,7 @@ iframe[data-src]:not(.lazy-loaded),
 }
 .epsc-rating .epsc-rating-item i {
   display: inline-flex;
-  font-family: "element-pack" !important;
+  font-family: "Noto Serif", sans-serif !important;
   speak: never;
   font-style: normal;
   font-weight: 400;
@@ -7902,7 +7900,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: "Noto Serif", sans-serif !important;
   font-size: 1em;
 }
 button,
@@ -7999,8 +7997,7 @@ html {
   box-sizing: border-box;
 }
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: "Noto Serif", sans-serif !important;
   font-size: 100%;
   line-height: 1.5;
   font-style: normal;
@@ -8151,7 +8148,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: monospace, Monaco, Courier New, serif;
+  font-family: "Noto Serif", sans-serif !important;
 }
 abbr[title] {
   cursor: help;
@@ -8191,7 +8188,7 @@ h4,
 h5,
 h6 {
   font-style: normal;
-  font-family: "Georgia", Helvetica, sans-serif;
+  font-family: "Noto Serif", sans-serif !important;
   letter-spacing: 0;
   font-weight: 600;
   margin-top: 0.2em;
@@ -15047,7 +15044,7 @@ textarea.aux-light.aux-bottom-line {
   font-style: normal;
 }
 [data-icon]:before {
-  font-family: "auxin-front" !important;
+  /* font-family: "auxin-front" !important; */
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: 400 !important;
@@ -15060,7 +15057,7 @@ textarea.aux-light.aux-bottom-line {
 }
 [class^="auxicon-"]:before,
 [class*=" auxicon-"]:before {
-  font-family: "auxin-front" !important;
+  /* font-family: "auxin-front" !important; */
   font-style: normal !important;
   font-weight: 400 !important;
   font-variant: normal !important;
@@ -18674,17 +18671,17 @@ textarea.aux-light.aux-bottom-line {
 }
 .aux-simple-arrow-left-symbol:before {
   content: "\2190";
-  font-family: Arial;
+  font-family: "Noto Serif", sans-serif !important;
   display: inline-block;
 }
 .aux-simple-arrow-right-symbol:before {
   content: "\2192";
-  font-family: Arial;
+  font-family: "Noto Serif", sans-serif !important;
   display: inline-block;
 }
 /*!>>>>>>>>>>>>>>>>>>>>>>> #Document <<<<<<<<<<<<<<<<<<<<<<<<<<< */
 body {
-  font-family: "Raleway", arial, sans-serif;
+  font-family: "Noto Serif", sans-serif !important;
   background-color: #fff;
 }
 body:before {
@@ -18888,7 +18885,7 @@ h6,
 .aux-h4,
 .aux-h5,
 .aux-h6 {
-  font-family: "Raleway", arial, sans-serif;
+  font-family: "Noto Serif", sans-serif !important;
   overflow-wrap: inherit;
 }
 p,
@@ -20309,7 +20306,7 @@ table tr.even td {
 }
 .aux-logo-anchor.aux-has-logo ~ .aux-logo-text .site-title,
 .aux-logo-anchor.aux-has-logo ~ .aux-logo-text .site-description {
-  font-family: "Raleway", arial, sans-serif;
+  font-family: "Noto Serif", sans-serif !important;
   position: absolute;
   overflow: hidden;
   clip: rect(0 0 0 0);
@@ -43501,7 +43498,7 @@ dialog.fixed {
 .aux-read-more:after,
 .aux-post-nav:after {
   content: "\2192";
-  font-family: Arial;
+  font-family: "Noto Serif", sans-serif !important;
   font-size: 1.1em;
   display: inline-block;
   margin-left: 0.4em;
@@ -43517,7 +43514,7 @@ dialog.fixed {
 .aux-post-nav.aux-arrow-left:before {
   content: "\2190";
   margin-right: 0.4em;
-  font-family: Arial;
+  font-family: "Noto Serif", sans-serif !important;
   display: inline-block;
 }
 .aux-read-more.aux-arrow-left:after,
@@ -46116,7 +46113,7 @@ input[type="button"] .aux-icon,
   top: auto;
   bottom: 0;
   right: 0;
-  font-family: Roboto, Arial, sans-serif;
+  font-family: "Noto Serif", sans-serif !important;
   letter-spacing: 0.5px;
   font-size: 0.8rem;
   font-weight: 500;
@@ -56566,7 +56563,7 @@ aside.aux-dark .aux-slide-title h3 {
   margin: 0;
   line-height: normal;
   font-weight: 300 !important;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Noto Serif", sans-serif !important;
   font-size: 7.5em;
 }
 .not-found .entry-content .entry-title,
@@ -62207,7 +62204,7 @@ button.swiper-pagination-bullet {
 }
 .mejs-container {
   background: #000;
-  font-family: Helvetica, Arial, serif;
+  font-family: "Noto Serif", sans-serif !important;
   position: relative;
   text-align: left;
   text-indent: 0;
@@ -62865,7 +62862,7 @@ button.swiper-pagination-bullet {
   max-width: 100%;
 }
 .mejs-container * {
-  font-family: Helvetica, Arial;
+  font-family: "Noto Serif", sans-serif !important;
 }
 .mejs-container,
 .mejs-container .mejs-controls,
