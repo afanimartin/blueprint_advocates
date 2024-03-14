@@ -6068,6 +6068,29 @@ iframe[data-bdt-cover] {
     saturate(var(--ep-backdrop-filter-saturate, 1))
     hue-rotate(var(--ep-backdrop-filter-hue-rotate, 0));
 }
+
+.sixty-percent {
+  width: 60%;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 426px) {
+  .sixty-percent {
+    width: 90%;
+  }
+}
+
+.div-separator {
+  margin: 50px 0;
+}
+
+.sixty-percent > p {
+  font-size: 15px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+word-spacing: 0px;
+}
 .elementor-widget.bdt-backdrop-filter-yes > .elementor-widget-container {
   -webkit-backdrop-filter: blur(var(--ep-backdrop-filter-blur, 0))
     brightness(var(--ep-backdrop-filter-brightness, 100%))
