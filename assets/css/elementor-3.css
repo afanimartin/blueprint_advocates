@@ -1277,7 +1277,7 @@
     U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
@@ -1287,7 +1287,7 @@
     U+FE2E-FE2F;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
@@ -1296,7 +1296,7 @@
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
@@ -1305,7 +1305,7 @@
   unicode-range: U+1F00-1FFF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
@@ -1314,7 +1314,7 @@
   unicode-range: U+0370-03FF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
@@ -1325,7 +1325,7 @@
     U+1EA0-1EF9, U+20AB;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
@@ -1335,7 +1335,7 @@
     U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
@@ -1346,7 +1346,7 @@
     U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 700;
   font-stretch: 100%;
@@ -1356,7 +1356,7 @@
     U+FE2E-FE2F;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 700;
   font-stretch: 100%;
@@ -1365,7 +1365,7 @@
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 700;
   font-stretch: 100%;
@@ -1374,7 +1374,7 @@
   unicode-range: U+1F00-1FFF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 700;
   font-stretch: 100%;
@@ -1383,7 +1383,7 @@
   unicode-range: U+0370-03FF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 700;
   font-stretch: 100%;
@@ -1394,7 +1394,7 @@
     U+1EA0-1EF9, U+20AB;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 700;
   font-stretch: 100%;
@@ -1404,7 +1404,7 @@
     U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: italic;
   font-weight: 700;
   font-stretch: 100%;
@@ -1415,7 +1415,7 @@
     U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -1425,7 +1425,7 @@
     U+FE2E-FE2F;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -1434,7 +1434,7 @@
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -1443,7 +1443,7 @@
   unicode-range: U+1F00-1FFF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -1452,7 +1452,7 @@
   unicode-range: U+0370-03FF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -1463,7 +1463,7 @@
     U+1EA0-1EF9, U+20AB;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -1473,7 +1473,7 @@
     U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -1484,7 +1484,7 @@
     U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 700;
   font-stretch: 100%;
@@ -1494,7 +1494,7 @@
     U+FE2E-FE2F;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 700;
   font-stretch: 100%;
@@ -1503,7 +1503,7 @@
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 700;
   font-stretch: 100%;
@@ -1512,7 +1512,7 @@
   unicode-range: U+1F00-1FFF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 700;
   font-stretch: 100%;
@@ -1521,7 +1521,7 @@
   unicode-range: U+0370-03FF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 700;
   font-stretch: 100%;
@@ -1532,7 +1532,7 @@
     U+1EA0-1EF9, U+20AB;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 700;
   font-stretch: 100%;
@@ -1542,7 +1542,7 @@
     U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 @font-face {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 700;
   font-stretch: 100%;

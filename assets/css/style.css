@@ -2788,7 +2788,7 @@ ul.bdt-nav-sub {
   box-sizing: border-box;
   min-height: 80px;
   font-size: 16px;
-  font-family: "Noto Serif", Sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   text-decoration: none;
 }
 .bdt-navbar-nav > li > a {
@@ -4744,7 +4744,7 @@ iframe[data-bdt-cover] {
 }
 .bdt-logo {
   font-size: 1.5rem;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   color: #333;
   text-decoration: none;
 }
@@ -6068,29 +6068,6 @@ iframe[data-bdt-cover] {
     saturate(var(--ep-backdrop-filter-saturate, 1))
     hue-rotate(var(--ep-backdrop-filter-hue-rotate, 0));
 }
-
-.sixty-percent {
-  width: 60%;
-  margin: 0 auto;
-}
-
-@media screen and (min-width: 426px) {
-  .sixty-percent {
-    width: 90%;
-  }
-}
-
-.div-separator {
-  margin: 50px 0;
-}
-
-.sixty-percent > p {
-  font-size: 15px;
-font-weight: 400;
-line-height: 26px;
-letter-spacing: 0px;
-word-spacing: 0px;
-}
 .elementor-widget.bdt-backdrop-filter-yes > .elementor-widget-container {
   -webkit-backdrop-filter: blur(var(--ep-backdrop-filter-blur, 0))
     brightness(var(--ep-backdrop-filter-brightness, 100%))
@@ -7304,7 +7281,7 @@ iframe[data-src]:not(.lazy-loaded),
 }
 .epsc-rating .epsc-rating-item i {
   display: inline-flex;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "element-pack" !important;
   speak: never;
   font-style: normal;
   font-weight: 400;
@@ -7923,7 +7900,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   font-size: 1em;
 }
 button,
@@ -8020,7 +7997,7 @@ html {
   box-sizing: border-box;
 }
 body {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   font-size: 100%;
   line-height: 1.5;
   font-style: normal;
@@ -8171,7 +8148,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: monospace, Monaco, Courier New, serif;
 }
 abbr[title] {
   cursor: help;
@@ -8211,7 +8188,7 @@ h4,
 h5,
 h6 {
   font-style: normal;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   letter-spacing: 0;
   font-weight: 600;
   margin-top: 0.2em;
@@ -15053,7 +15030,7 @@ textarea.aux-light.aux-bottom-line {
   }
 }
 @font-face {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "auxin-front";
   src: url(//www.byte.law/wp-content/themes/phlox-pro/css/fonts/fontastic/auxicon/auxin-front.eot);
   src: url(//www.byte.law/wp-content/themes/phlox-pro/css/fonts/fontastic/auxicon/auxin-front.eot?#iefix)
       format("embedded-opentype"),
@@ -15067,7 +15044,7 @@ textarea.aux-light.aux-bottom-line {
   font-style: normal;
 }
 [data-icon]:before {
-  /* font-family: "Noto Serif", sans-serif !important !important; */
+  font-family: "auxin-front" !important;
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: 400 !important;
@@ -15080,7 +15057,7 @@ textarea.aux-light.aux-bottom-line {
 }
 [class^="auxicon-"]:before,
 [class*=" auxicon-"]:before {
-  /* font-family: "Noto Serif", sans-serif !important !important; */
+  font-family: "auxin-front" !important;
   font-style: normal !important;
   font-weight: 400 !important;
   font-variant: normal !important;
@@ -18694,17 +18671,17 @@ textarea.aux-light.aux-bottom-line {
 }
 .aux-simple-arrow-left-symbol:before {
   content: "\2190";
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: Arial;
   display: inline-block;
 }
 .aux-simple-arrow-right-symbol:before {
   content: "\2192";
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: Arial;
   display: inline-block;
 }
 /*!>>>>>>>>>>>>>>>>>>>>>>> #Document <<<<<<<<<<<<<<<<<<<<<<<<<<< */
 body {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   background-color: #fff;
 }
 body:before {
@@ -18908,7 +18885,7 @@ h6,
 .aux-h4,
 .aux-h5,
 .aux-h6 {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   overflow-wrap: inherit;
 }
 p,
@@ -19192,7 +19169,7 @@ table tr.even td {
 .aux-top-header #lang_sel {
   display: block;
   height: auto;
-  font-family: i "Noto Serif", sans-serif !important;
+  font-family: inherit;
 }
 .aux-top-header #lang_sel > ul,
 .aux-top-header #lang_sel .icl_lang_sel_native,
@@ -19712,7 +19689,7 @@ table tr.even td {
 .aux-cart-wrapper.aux-elegant-cart
   .aux-card-final-amount
   .woocommerce-Price-amount {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   font-size: 16px;
   color: #444;
   font-weight: 600;
@@ -19781,7 +19758,7 @@ table tr.even td {
 }
 .aux-cart-wrapper .aux-inline-card-checkout .aux-card-final-amount {
   font-size: 14px;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   font-weight: 400;
   color: #444;
 }
@@ -20329,7 +20306,7 @@ table tr.even td {
 }
 .aux-logo-anchor.aux-has-logo ~ .aux-logo-text .site-title,
 .aux-logo-anchor.aux-has-logo ~ .aux-logo-text .site-description {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   position: absolute;
   overflow: hidden;
   clip: rect(0 0 0 0);
@@ -23067,7 +23044,7 @@ table tr.even td {
 }
 .woocommerce-message:before,
 .woocommerce-error:before {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "auxin-front" !important;
   content: "\e0b5" !important;
   position: absolute !important;
   left: 23px !important;
@@ -23085,7 +23062,7 @@ table tr.even td {
   }
 }
 .woocommerce-message:before {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "auxin-front-2" !important;
   content: "\2b" !important;
   font-size: 24px !important;
 }
@@ -27287,7 +27264,7 @@ dialog.fixed {
 }
 .wpulike.aux-wpulike .wp_ulike_general_class .wp_ulike_btn:before {
   display: block;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "auxin-front" !important;
   font-style: normal !important;
   font-weight: 400 !important;
   font-variant: normal !important;
@@ -43521,7 +43498,7 @@ dialog.fixed {
 .aux-read-more:after,
 .aux-post-nav:after {
   content: "\2192";
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   font-size: 1.1em;
   display: inline-block;
   margin-left: 0.4em;
@@ -43537,7 +43514,7 @@ dialog.fixed {
 .aux-post-nav.aux-arrow-left:before {
   content: "\2190";
   margin-right: 0.4em;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   display: inline-block;
 }
 .aux-read-more.aux-arrow-left:after,
@@ -43809,7 +43786,7 @@ legend {
   vertical-align: middle;
   display: inline-block;
   font-size: 1.4em;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "auxin-front";
   color: inherit;
   text-align: center;
   speak: none;
@@ -46136,7 +46113,7 @@ input[type="button"] .aux-icon,
   top: auto;
   bottom: 0;
   right: 0;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   letter-spacing: 0.5px;
   font-size: 0.8rem;
   font-weight: 500;
@@ -46202,13 +46179,13 @@ blockquote {
   color: #dedede;
   line-height: 100%;
   font-size: 5.5em;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
 }
 .aux-quote-symbol:after {
   content: close-quote;
   color: #dedede;
   line-height: 100%;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   visibility: hidden;
 }
 .aux-quote-letter > p:after,
@@ -46589,7 +46566,7 @@ blockquote {
   place-content: center;
   font-size: 25px;
   font-weight: 700;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   max-width: 100%;
 }
 .aux-circle-chart span {
@@ -46747,7 +46724,7 @@ blockquote {
   padding: 12px 17px 12px 13px;
   background-color: #3d3d3d;
   font-size: 14px;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: inherit;
 }
 .ult-just-icon-wrapper .bsf_tooltip.left .bsf_tooltip-arrow {
   right: 1px;
@@ -50453,7 +50430,7 @@ aside .wp-block-group__inner-container h2,
   position: absolute;
   top: 0;
   left: -5px;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "auxin-front";
   font-size: 28px;
   line-height: normal;
 }
@@ -52887,7 +52864,7 @@ aside .aux-widget-contact-box .aux-map-wrapper + .aux-contact-details {
   top: 2px;
   left: 0;
   color: #bbb;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "auxin-front";
   font-size: 1.6em;
   line-height: 1;
   speak: none;
@@ -54942,7 +54919,7 @@ aside.aux-dark .aux-slide-title h3 {
 .comment-body pre {
   border: 1px solid #eaeaea;
   color: #505050;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   font-size: 12px;
   font-size: 0.857142857rem;
   line-height: 1.714285714;
@@ -56000,7 +55977,7 @@ aside.aux-dark .aux-slide-title h3 {
   line-height: 1;
 }
 .single-post .hentry .entry-meta .aux-single-post-share .aux-has-text:before {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: inherit;
   content: attr(data-text);
   font-weight: 500;
   text-decoration: underline;
@@ -56108,7 +56085,7 @@ aside.aux-dark .aux-slide-title h3 {
   left: 0;
   position: relative;
   color: #505050;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: sans-serif;
   font-weight: 700;
   font-style: normal;
 }
@@ -56338,7 +56315,7 @@ aside.aux-dark .aux-slide-title h3 {
 }
 .aux-archive .type-post.sticky .entry-title:before {
   content: "\e16b";
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "auxin-front";
   font-size: 0.74em;
   speak: none;
 }
@@ -56586,7 +56563,7 @@ aside.aux-dark .aux-slide-title h3 {
   margin: 0;
   line-height: normal;
   font-weight: 300 !important;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   font-size: 7.5em;
 }
 .not-found .entry-content .entry-title,
@@ -56656,7 +56633,7 @@ aside.aux-dark .aux-slide-title h3 {
 .aux-search.aux-advanced-search .aux-primary .aux-search-from span,
 .aux-search.aux-advanced-search .aux-primary .aux-search-from a {
   font-size: 18px;
-  font-family: "Noto Serif", Sans-serif;
+  font-family: "Noto Sans", Sans-serif;
   color: #3d3d3d;
   text-transform: capitalize;
 }
@@ -56940,7 +56917,7 @@ body.e-lazyload .lazyloaded,
 body.e-lazyload .lazyloaded .elementor-background-overlay {
   --e-bg-lazyload-loaded: var(--e-bg-lazyload);
 }
-/*! elementor - v3.19.0 - 28-02-2024 */
+/*! elementor - v3.20.0 - 13-03-2024 */
 .dialog-widget-content {
   background-color: var(--e-a-bg-default);
   position: absolute;
@@ -59172,12 +59149,12 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 }
 .elementor-field-group .elementor-field-textual::-moz-placeholder {
   color: inherit;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: inherit;
   opacity: 0.6;
 }
 .elementor-field-group .elementor-field-textual::placeholder {
   color: inherit;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: inherit;
   opacity: 0.6;
 }
 .elementor-field-group .elementor-select-wrapper {
@@ -59191,7 +59168,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
   appearance: none;
   color: inherit;
   font-size: inherit;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: inherit;
   font-weight: inherit;
   font-style: inherit;
   text-transform: inherit;
@@ -62227,7 +62204,7 @@ button.swiper-pagination-bullet {
 }
 .mejs-container {
   background: #000;
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
   position: relative;
   text-align: left;
   text-indent: 0;
@@ -62885,7 +62862,7 @@ button.swiper-pagination-bullet {
   max-width: 100%;
 }
 .mejs-container * {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "Noto Sans", Sans-serif;
 }
 .mejs-container,
 .mejs-container .mejs-controls,
@@ -63595,9 +63572,9 @@ video.wp-video-shortcode {
   border-radius: 4px;
 }
 a {
-  color: #000000;
+  color: #0182e7;
 }
-/*! elementor - v3.19.0 - 28-02-2024 */
+/*! elementor - v3.20.0 - 13-03-2024 */
 .elementor-column .elementor-spacer-inner {
   height: var(--spacer-size);
 }
@@ -63659,7 +63636,7 @@ a {
   width: 22px;
   height: 22px;
 }
-/*! elementor - v3.19.0 - 28-02-2024 */
+/*! elementor - v3.20.0 - 13-03-2024 */
 .elementor-widget-image {
   text-align: center;
 }
@@ -63683,7 +63660,7 @@ a {
     display: none;
   }
 }
-/*! elementor - v3.19.0 - 28-02-2024 */
+/*! elementor - v3.20.0 - 13-03-2024 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked
   .elementor-drop-cap {
   background-color: #69727d;
@@ -63713,11 +63690,11 @@ a {
 .elementor-widget-text-editor .elementor-drop-cap-letter {
   display: inline-block;
 }
-/*! elementor - v3.19.0 - 28-02-2024 */
+/*! elementor - v3.20.0 - 13-03-2024 */
 body.elementor-page .elementor-widget-menu-anchor {
   margin-bottom: 0;
 }
-/*! elementor - v3.19.0 - 28-02-2024 */
+/*! elementor - v3.20.0 - 13-03-2024 */
 .elementor-widget-icon-box .elementor-icon-box-wrapper {
   display: block;
   text-align: center;
@@ -64088,7 +64065,7 @@ body.elementor-page .elementor-widget-menu-anchor {
 .elementor-widget-icon-box .elementor-icon-box-description {
   margin: 0;
 }
-/*! elementor - v3.19.0 - 28-02-2024 */
+/*! elementor - v3.20.0 - 13-03-2024 */
 .elementor-heading-title {
   padding: 0;
   margin: 0;
@@ -64116,7 +64093,7 @@ body.elementor-page .elementor-widget-menu-anchor {
 .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
   font-size: 59px;
 }
-/*! elementor - v3.19.0 - 28-02-2024 */
+/*! elementor - v3.20.0 - 13-03-2024 */
 .elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,
 .elementor-widget-social-icons.elementor-grid-mobile-0
   .elementor-widget-container,
@@ -64296,6 +64273,9 @@ body.elementor-page .elementor-widget-menu-anchor {
 .elementor-social-icon-telegram {
   background-color: #2ca5e0;
 }
+.elementor-social-icon-threads {
+  background-color: #000;
+}
 .elementor-social-icon-thumb-tack {
   background-color: #1aa1d8;
 }
@@ -64331,6 +64311,9 @@ body.elementor-page .elementor-widget-menu-anchor {
 }
 .elementor-social-icon-wordpress {
   background-color: #21759b;
+}
+.elementor-social-icon-x-twitter {
+  background-color: #000;
 }
 .elementor-social-icon-xing {
   background-color: #026466;
@@ -65364,7 +65347,7 @@ body.rtl
 }
 [class^="ep-icon-"],
 [class*=" ep-icon-"] {
-  font-family: "Noto Serif", sans-serif !important;
+  font-family: "element-pack" !important;
   speak: never;
   font-style: normal;
   font-weight: 400;
@@ -66296,4 +66279,12 @@ body.rtl
     -ms-flex-negative: 1;
     flex-shrink: 1;
   }
+}
+
+/* CUSTOM STYLING */
+#book-btn {
+  background-color: #69727d;
+  color: #ffffff;
+  padding: 12px 24px;
+  font-weight: normal;
 }

@@ -138,11 +138,11 @@ body {
 }
 body h1,
 body .aux-h1 {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
 }
 body h2,
 body .aux-h2 {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-size: 8px;
   font-weight: 400;
   text-transform: none;
@@ -170,7 +170,7 @@ body .aux-h5 {
   text-decoration: none;
 }
 .blog .hentry .entry-title {
-  font-family: "Noto Serif";
+  font-family: "Noto Sans";
   font-size: 28px;
   font-style: normal;
 }
