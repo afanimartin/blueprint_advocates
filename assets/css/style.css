@@ -64062,6 +64062,7 @@ body.elementor-page .elementor-widget-menu-anchor {
 .elementor-widget-icon-box .elementor-icon-box-content {
   flex-grow: 1;
 }
+
 .elementor-widget-icon-box .elementor-icon-box-description {
   margin: 0;
 }
@@ -66291,4 +66292,16 @@ body.rtl
 
 .div-separator {
   margin: 50px 0px;
+}
+
+.elementor-icon-box-content {
+  background-color: #fff; /* White background */
+    border: 1px solid #ddd; /* Light grey border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    margin: 20px auto; /* Center the card and add some margin */
+    max-width: 600px; /* Set a max-width for the card */
+    padding: 20px; /* Add some padding inside the card */
+    position: relative; /* Needed for floating effect */
+    z-index: 1; /* Make sure the card is above other content */
 }
