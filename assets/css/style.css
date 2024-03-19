@@ -66283,8 +66283,12 @@ body.rtl
 
 /* CUSTOM STYLING */
 #book-btn {
-  background-color: #69727d;
+  background-color: #0f9798;
   color: #ffffff;
   padding: 12px 24px;
   font-weight: normal;
+}
+
+.div-separator {
+  margin: 50px 0px;
 }
