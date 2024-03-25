@@ -4,6 +4,11 @@
   --bdt-breakpoint-l: 1200px;
   --bdt-breakpoint-xl: 1600px;
 }
+
+p {
+  text-align: left !important;
+}
+
 a.bdt-link-muted,
 .bdt-link-muted a,
 .bdt-link-toggle .bdt-link-muted {
@@ -66304,4 +66309,16 @@ body.rtl
     padding: 20px; /* Add some padding inside the card */
     position: relative; /* Needed for floating effect */
     z-index: 1; /* Make sure the card is above other content */
+}
+
+#contact {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media screen and (max-width: 425px) {
+  .elementor-8634 .elementor-element .elementor-element-1f2d8af4 > .elementor-element-populated{
+    display: none;
+  }
 }
