@@ -91,7 +91,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}
 
 /* CUSTOM STYLING */
 
-/* .elementor-icon-box-content {
+.elementor-icon-box-content {
   background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -101,7 +101,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}
   padding: 10px; 
   position: relative;
   z-index: 1;
-} */
+}
 
 #contact {
 	width: 60%;
