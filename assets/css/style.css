@@ -65968,4 +65968,25 @@ body.rtl
   #show-mobile {
     display: block;
   }
+
+  .news-section {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .news-section {
+    display: grid;
+    grid-template-columns: repeat(2, 48%);
+    grid-gap: 4%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .news-section {
+    display: grid;
+    grid-template-columns: repeat(4, 23.5%);
+    grid-gap: 2%;
+  }
 }
