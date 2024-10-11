@@ -7900,11 +7900,7 @@ code,
 kbd,
 pre,
 samp {
-<<<<<<< HEAD
   font-family: "Montserrat", sans-serif !important;
-=======
-  font-family: monospace, monospace;
->>>>>>> refs/remotes/origin/main
   font-size: 1em;
 }
 button,
@@ -8001,12 +7997,7 @@ html {
   box-sizing: border-box;
 }
 body {
-<<<<<<< HEAD
   font-family: "Montserrat", sans-serif !important;
-=======
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
->>>>>>> refs/remotes/origin/main
   font-size: 100%;
   line-height: 1.5;
   font-style: normal;
@@ -8157,11 +8148,7 @@ pre,
 code,
 kbd,
 samp {
-<<<<<<< HEAD
   font-family: "Montserrat", sans-serif !important;
-=======
-  font-family: monospace, Monaco, Courier New, serif;
->>>>>>> refs/remotes/origin/main
 }
 abbr[title] {
   cursor: help;
@@ -8201,11 +8188,7 @@ h4,
 h5,
 h6 {
   font-style: normal;
-<<<<<<< HEAD
   font-family: "Montserrat", sans-serif !important;
-=======
-  font-family: "Georgia", Helvetica, sans-serif;
->>>>>>> refs/remotes/origin/main
   letter-spacing: 0;
   font-weight: 600;
   margin-top: 0.2em;
